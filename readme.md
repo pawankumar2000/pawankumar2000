@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">📊 B.Tech (ECE) @ IIIT Kota | Data Analyst | AI/ML & Full-Stack Enthusiast</h3>
+<h3 align="center">💻 Software Developer & Data Analyst | B.Tech (ECE) @ IIIT Kota | Full-Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=550&height=40&lines=Data+Analytics+%26+Visualization;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Exploring+New+Tech" />
