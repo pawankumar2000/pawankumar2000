@@ -25,6 +25,7 @@
 - [**AI-Driven Product Growth Analysis**](#) – Built **Power BI dashboards** and performed churn analysis on 300k+ users  
 - [**RAG-Based Project**](#) – Implemented a **Retrieval-Augmented Generation pipeline** for intelligent document search  
 - [**Portfolio Website**](#) – Responsive personal portfolio with **React & Tailwind**
+- <a href="https://bg-remover-seven-wine.vercel.app/">[**BG-Remover web**](#)</a> - A simple web app to remove image backgrounds instantly using HTML, CSS, JavaScript, and the Remove.bg API.
 
 ---
 
