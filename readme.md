@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Developer & Data Analyst | B.Tech (ECE) @ IIIT Kota | Full-Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=550&height=40&lines=Data+Analytics+%26+Visualization;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Exploring+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Code-Analyze-Build-Solve-Repeat" />
 </p>
 
 ---
@@ -32,14 +32,14 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,excel,tableau,react,nodejs,mongodb,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,css,expressjs,html,javascript,mongodb,mysql,nestjs,nodejs,postman,powershell,python,react,typescript,vite,vscode&theme=dark&perline=8" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Streak Stats" height="180"/>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pawankumar2000" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
