@@ -12,7 +12,7 @@
 - 🎓 Pursuing **B.Tech in Electronics & Communication** at **IIIT Kota (2022–2026)**
 - 💻 Skilled in **SQL, Power BI, Python, and Web Development**
 - 🌱 Currently exploring **AI/ML, Data Engineering, and Advanced Analytics**
-- 📂 Portfolio Projects: [My GitHub](https://github.com/pawan) *(replace with your actual username link)*
+- 📂 Portfolio Projects: [My GitHub]([https://github.com/pawankumar2000]) 
 - 💡 Passionate about solving real-world problems with **data-driven insights & scalable solutions**
 - ⚡ Fun fact: *I turn raw data into impactful stories 📈*
 
